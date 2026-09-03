@@ -15,7 +15,7 @@
     "genre": ["Crime", "Drama"],
     "rating": 9.2,
     "overview": "The aging patriarch of an organized crime dynasty transfers control of his empire to his reluctant son.",
-    "posterURL": "https://placehold.co/300x450/png?text=The+Godfather"
+    "posterURL": "https://image.tmdb.org/t/p/w300/3Tf8vXykYhzHdT0BtsYTp570JGQ.jpg"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "genre": ["Action", "Crime", "Drama"],
     "rating": 9.0,
     "overview": "A masked vigilante faces a criminal mastermind who plunges Gotham City into chaos.",
-    "posterURL": "https://placehold.co/300x450/png?text=The+Dark+Knight"
+    "posterURL": "https://image.tmdb.org/t/p/w300/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "genre": ["Crime", "Drama"],
     "rating": 8.9,
     "overview": "The lives of several people intersect in a series of stories set in the Los Angeles underworld.",
-    "posterURL": "https://placehold.co/300x450/png?text=Pulp+Fiction"
+    "posterURL": "https://image.tmdb.org/t/p/w300/wZbnRMarWnO4DJRisOaK4QEg1tl.jpg"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "genre": ["Drama", "Romance"],
     "rating": 8.8,
     "overview": "A kind-hearted man unknowingly influences several defining moments in American history.",
-    "posterURL": "https://placehold.co/300x450/png?text=Forrest+Gump"
+    "posterURL": "https://image.tmdb.org/t/p/w300/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "genre": ["Action", "Science Fiction", "Thriller"],
     "rating": 8.8,
     "overview": "A skilled thief who enters dreams is given a chance to erase his past by planting an idea.",
-    "posterURL": "https://placehold.co/300x450/png?text=Inception"
+    "posterURL": "https://image.tmdb.org/t/p/w300/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "genre": ["Action", "Science Fiction"],
     "rating": 8.7,
     "overview": "A computer hacker discovers that reality is a simulated world controlled by machines.",
-    "posterURL": "https://placehold.co/300x450/png?text=The+Matrix"
+    "posterURL": "https://image.tmdb.org/t/p/w300/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "genre": ["Biography", "Crime", "Drama"],
     "rating": 8.7,
     "overview": "A young man rises through the ranks of a New York crime family and faces the consequences.",
-    "posterURL": "https://placehold.co/300x450/png?text=Goodfellas"
+    "posterURL": "https://image.tmdb.org/t/p/w300/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "genre": ["Adventure", "Drama", "Science Fiction"],
     "rating": 8.7,
     "overview": "Explorers travel through a wormhole in search of a new home for humanity.",
-    "posterURL": "https://placehold.co/300x450/png?text=Interstellar"
+    "posterURL": "https://image.tmdb.org/t/p/w300/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg"
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@
     "genre": ["Animation", "Adventure", "Fantasy"],
     "rating": 8.6,
     "overview": "A young girl enters a world ruled by gods, spirits, and a witch who transforms her parents.",
-    "posterURL": "https://placehold.co/300x450/png?text=Spirited+Away"
+    "posterURL": "https://image.tmdb.org/t/p/w300/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "genre": ["Drama", "War"],
     "rating": 8.6,
     "overview": "A group of soldiers searches behind enemy lines for a paratrooper whose brothers have died in combat.",
-    "posterURL": "https://placehold.co/300x450/png?text=Saving+Private+Ryan"
+    "posterURL": "https://image.tmdb.org/t/p/w300/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg"
   },
   {
     "id": 12,
@@ -105,7 +105,7 @@
     "genre": ["Crime", "Drama", "Fantasy"],
     "rating": 8.6,
     "overview": "A prison guard encounters a mysterious inmate with an extraordinary gift.",
-    "posterURL": "https://placehold.co/300x450/png?text=The+Green+Mile"
+    "posterURL": "https://image.tmdb.org/t/p/w300/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg"
   },
   {
     "id": 13,
@@ -114,7 +114,7 @@
     "genre": ["Comedy", "Drama", "Thriller"],
     "rating": 8.5,
     "overview": "A struggling family gradually becomes entangled with a wealthy household through deception and ambition.",
-    "posterURL": "https://placehold.co/300x450/png?text=Parasite"
+    "posterURL": "https://image.tmdb.org/t/p/w300/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg"
   },
   {
     "id": 14,
@@ -123,7 +123,7 @@
     "genre": ["Crime", "Drama", "Thriller"],
     "rating": 8.5,
     "overview": "An undercover officer and a mole in the police force attempt to identify each other.",
-    "posterURL": "https://placehold.co/300x450/png?text=The+Departed"
+    "posterURL": "https://image.tmdb.org/t/p/w300/nT97ifVT2J1yMQmeq20Qblg61T.jpg"
   },
   {
     "id": 15,
@@ -132,7 +132,7 @@
     "genre": ["Action", "Adventure", "Drama"],
     "rating": 8.5,
     "overview": "A betrayed Roman general fights his way back from slavery to seek justice and revenge.",
-    "posterURL": "https://placehold.co/300x450/png?text=Gladiator"
+    "posterURL": "https://image.tmdb.org/t/p/w300/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg"
   },
   {
     "id": 16,
@@ -141,7 +141,7 @@
     "genre": ["Drama", "Mystery", "Science Fiction"],
     "rating": 8.5,
     "overview": "Two rival magicians become consumed by a dangerous competition to create the ultimate illusion.",
-    "posterURL": "https://placehold.co/300x450/png?text=The+Prestige"
+    "posterURL": "https://image.tmdb.org/t/p/w300/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg"
   },
   {
     "id": 17,
@@ -150,7 +150,7 @@
     "genre": ["Drama", "Music"],
     "rating": 8.5,
     "overview": "A young jazz drummer is pushed to his limits by an uncompromising instructor.",
-    "posterURL": "https://placehold.co/300x450/png?text=Whiplash"
+    "posterURL": "https://image.tmdb.org/t/p/w300/7fn624j5lj3xTme2SgiLCeuedmO.jpg"
   },
   {
     "id": 18,
@@ -159,7 +159,7 @@
     "genre": ["Adventure", "Drama", "Fantasy"],
     "rating": 8.8,
     "overview": "A hobbit begins a perilous journey to destroy a powerful ring before its creator can reclaim it.",
-    "posterURL": "https://placehold.co/300x450/png?text=LOTR+Fellowship"
+    "posterURL": "https://image.tmdb.org/t/p/w300/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg"
   },
   {
     "id": 19,
@@ -168,7 +168,7 @@
     "genre": ["Animation", "Adventure", "Family"],
     "rating": 8.4,
     "overview": "An aspiring musician journeys into the Land of the Dead to uncover his family history.",
-    "posterURL": "https://placehold.co/300x450/png?text=Coco"
+    "posterURL": "https://image.tmdb.org/t/p/w300/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg"
   },
   {
     "id": 20,
@@ -177,6 +177,6 @@
     "genre": ["Action", "Adventure", "Science Fiction"],
     "rating": 8.1,
     "overview": "A road warrior joins a group of rebels fleeing across a dangerous wasteland from a tyrannical ruler.",
-    "posterURL": "https://placehold.co/300x450/png?text=Mad+Max+Fury+Road"
+    "posterURL": "https://image.tmdb.org/t/p/w300/hA2ple9q4qnwxp3hKVNhroipsir.jpg"
   }
 ]
