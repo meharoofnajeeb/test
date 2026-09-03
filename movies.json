@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genre": ["Drama"],
+    "rating": 9.3,
+    "overview": "Two imprisoned men form a friendship and find hope through acts of common decency.",
+    "posterURL": "https://placehold.co/300x450/png?text=Shawshank+Redemption"
+  },
+  {
+    "id": 2,
+    "title": "The Godfather",
+    "year": 1972,
+    "genre": ["Crime", "Drama"],
+    "rating": 9.2,
+    "overview": "The aging patriarch of an organized crime dynasty transfers control of his empire to his reluctant son.",
+    "posterURL": "https://placehold.co/300x450/png?text=The+Godfather"
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": ["Action", "Crime", "Drama"],
+    "rating": 9.0,
+    "overview": "A masked vigilante faces a criminal mastermind who plunges Gotham City into chaos.",
+    "posterURL": "https://placehold.co/300x450/png?text=The+Dark+Knight"
+  },
+  {
+    "id": 4,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genre": ["Crime", "Drama"],
+    "rating": 8.9,
+    "overview": "The lives of several people intersect in a series of stories set in the Los Angeles underworld.",
+    "posterURL": "https://placehold.co/300x450/png?text=Pulp+Fiction"
+  },
+  {
+    "id": 5,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genre": ["Drama", "Romance"],
+    "rating": 8.8,
+    "overview": "A kind-hearted man unknowingly influences several defining moments in American history.",
+    "posterURL": "https://placehold.co/300x450/png?text=Forrest+Gump"
+  },
+  {
+    "id": 6,
+    "title": "Inception",
+    "year": 2010,
+    "genre": ["Action", "Science Fiction", "Thriller"],
+    "rating": 8.8,
+    "overview": "A skilled thief who enters dreams is given a chance to erase his past by planting an idea.",
+    "posterURL": "https://placehold.co/300x450/png?text=Inception"
+  },
+  {
+    "id": 7,
+    "title": "The Matrix",
+    "year": 1999,
+    "genre": ["Action", "Science Fiction"],
+    "rating": 8.7,
+    "overview": "A computer hacker discovers that reality is a simulated world controlled by machines.",
+    "posterURL": "https://placehold.co/300x450/png?text=The+Matrix"
+  },
+  {
+    "id": 8,
+    "title": "Goodfellas",
+    "year": 1990,
+    "genre": ["Biography", "Crime", "Drama"],
+    "rating": 8.7,
+    "overview": "A young man rises through the ranks of a New York crime family and faces the consequences.",
+    "posterURL": "https://placehold.co/300x450/png?text=Goodfellas"
+  },
+  {
+    "id": 9,
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": ["Adventure", "Drama", "Science Fiction"],
+    "rating": 8.7,
+    "overview": "Explorers travel through a wormhole in search of a new home for humanity.",
+    "posterURL": "https://placehold.co/300x450/png?text=Interstellar"
+  },
+  {
+    "id": 10,
+    "title": "Spirited Away",
+    "year": 2001,
+    "genre": ["Animation", "Adventure", "Fantasy"],
+    "rating": 8.6,
+    "overview": "A young girl enters a world ruled by gods, spirits, and a witch who transforms her parents.",
+    "posterURL": "https://placehold.co/300x450/png?text=Spirited+Away"
+  },
+  {
+    "id": 11,
+    "title": "Saving Private Ryan",
+    "year": 1998,
+    "genre": ["Drama", "War"],
+    "rating": 8.6,
+    "overview": "A group of soldiers searches behind enemy lines for a paratrooper whose brothers have died in combat.",
+    "posterURL": "https://placehold.co/300x450/png?text=Saving+Private+Ryan"
+  },
+  {
+    "id": 12,
+    "title": "The Green Mile",
+    "year": 1999,
+    "genre": ["Crime", "Drama", "Fantasy"],
+    "rating": 8.6,
+    "overview": "A prison guard encounters a mysterious inmate with an extraordinary gift.",
+    "posterURL": "https://placehold.co/300x450/png?text=The+Green+Mile"
+  },
+  {
+    "id": 13,
+    "title": "Parasite",
+    "year": 2019,
+    "genre": ["Comedy", "Drama", "Thriller"],
+    "rating": 8.5,
+    "overview": "A struggling family gradually becomes entangled with a wealthy household through deception and ambition.",
+    "posterURL": "https://placehold.co/300x450/png?text=Parasite"
+  },
+  {
+    "id": 14,
+    "title": "The Departed",
+    "year": 2006,
+    "genre": ["Crime", "Drama", "Thriller"],
+    "rating": 8.5,
+    "overview": "An undercover officer and a mole in the police force attempt to identify each other.",
+    "posterURL": "https://placehold.co/300x450/png?text=The+Departed"
+  },
+  {
+    "id": 15,
+    "title": "Gladiator",
+    "year": 2000,
+    "genre": ["Action", "Adventure", "Drama"],
+    "rating": 8.5,
+    "overview": "A betrayed Roman general fights his way back from slavery to seek justice and revenge.",
+    "posterURL": "https://placehold.co/300x450/png?text=Gladiator"
+  },
+  {
+    "id": 16,
+    "title": "The Prestige",
+    "year": 2006,
+    "genre": ["Drama", "Mystery", "Science Fiction"],
+    "rating": 8.5,
+    "overview": "Two rival magicians become consumed by a dangerous competition to create the ultimate illusion.",
+    "posterURL": "https://placehold.co/300x450/png?text=The+Prestige"
+  },
+  {
+    "id": 17,
+    "title": "Whiplash",
+    "year": 2014,
+    "genre": ["Drama", "Music"],
+    "rating": 8.5,
+    "overview": "A young jazz drummer is pushed to his limits by an uncompromising instructor.",
+    "posterURL": "https://placehold.co/300x450/png?text=Whiplash"
+  },
+  {
+    "id": 18,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "genre": ["Adventure", "Drama", "Fantasy"],
+    "rating": 8.8,
+    "overview": "A hobbit begins a perilous journey to destroy a powerful ring before its creator can reclaim it.",
+    "posterURL": "https://placehold.co/300x450/png?text=LOTR+Fellowship"
+  },
+  {
+    "id": 19,
+    "title": "Coco",
+    "year": 2017,
+    "genre": ["Animation", "Adventure", "Family"],
+    "rating": 8.4,
+    "overview": "An aspiring musician journeys into the Land of the Dead to uncover his family history.",
+    "posterURL": "https://placehold.co/300x450/png?text=Coco"
+  },
+  {
+    "id": 20,
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "genre": ["Action", "Adventure", "Science Fiction"],
+    "rating": 8.1,
+    "overview": "A road warrior joins a group of rebels fleeing across a dangerous wasteland from a tyrannical ruler.",
+    "posterURL": "https://placehold.co/300x450/png?text=Mad+Max+Fury+Road"
+  }
+]
